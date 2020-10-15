@@ -1,0 +1,18 @@
+.footer p {  
+    margin-bottom: auto; 
+ }
+
+ .discordbutton {
+    background-color: #7289DA; 
+    color: white; 
+  }
+  
+  .discordbutton:hover {
+    background-color: #6070b1;
+    color: white;
+  }
+
+  .body {
+    font-family: "Noto Sans";
+    src: url("/assets/files/Notosans.ttf");
+    }
